@@ -52,14 +52,14 @@
             android:hint="Marka" />
 
         <Button
-            android:text="@string/ekle"
+            android:text="@string/Ekle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/button"
             android:onClick="btn_click"/>
 
         <Button
-            android:text="@string/ilanlar"
+            android:text="@string/Ilanlar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/button2" />

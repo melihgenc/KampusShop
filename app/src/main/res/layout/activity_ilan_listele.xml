@@ -26,10 +26,10 @@
             android:id="@+id/ListView" />
 
         <Button
-            android:text="@string/ilanEkle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/button3" />
+            android:id="@+id/button3"
+            android:text="@string/IlanEkle" />
     </LinearLayout>
 
 </RelativeLayout>

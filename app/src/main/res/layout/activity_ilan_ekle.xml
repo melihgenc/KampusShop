@@ -49,7 +49,7 @@
             android:inputType="textPersonName"
             android:ems="10"
             android:id="@+id/editText4"
-            android:hint="Markaaa" />
+            android:hint="Marka" />
 
         <Button
             android:text="@string/Ekle"

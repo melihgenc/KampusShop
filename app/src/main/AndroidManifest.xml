@@ -16,6 +16,16 @@
         <activity android:name=".IlanListele" />
         <activity android:name=".IlanEkle" />
         <activity android:name=".UyeOl" />
+        <activity android:name=".Anasayfa">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HesabimOff" />
+        <activity android:name=".HesabimOn" />
+        <activity android:name=".SifremiUnuttum"></activity>
     </application>
 
 </manifest>

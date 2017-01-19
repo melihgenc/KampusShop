@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">Kampus Shop</string>
+    <string name="app_name">Kampüs Shop</string>
     <string name="Ekle">Ekle</string>
     <string name="Ilanlar">İlanlar</string>
     <string name="IlanEkle">İlan Ekle</string>
-    <string name="title_activity_uye_ol">Üye Ol</string>
+    <string name="UyeOl">Üye Ol</string>
+    <string name="GirisYap">Giriş Yap</string>
+    <string name="SifremiUnuttum">Şifremi Unuttum</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">E-Posta</string>
